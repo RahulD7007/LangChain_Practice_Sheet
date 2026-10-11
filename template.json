@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "question",
+        "topic"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "I am learning about {topic} and I have a question - {question}, now give me answer in simple 2-3 lines.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
